@@ -1,0 +1,10 @@
+{
+  "name": "monad-pevm-state-prefetcher",
+  "version": "1.0.0",
+  "description": "Predictive parsing and asynchronous warm-cache loading utility for MonadDB",
+  "main": "launchPrefetcher.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
